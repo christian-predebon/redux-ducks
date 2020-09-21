@@ -1,0 +1,20 @@
+{
+  "name": "redux-ducks",
+  "version": "1.0.0",
+  "description": "Ready-to-use redux implementation based on [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) proposal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/kasugaicrow",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.5",
+    "react-redux": "^7.2.0",
+    "@types/redux": "^3.6.0",
+    "@reduxjs/toolkit": "^1.2.5"
+  },
+  "devDependencies": {
+    "@types/react-redux": "^7.1.9"
+  }
+}
